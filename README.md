@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bella
+- 👋 Hi, I’m Dina
 
 <!---
 dinanabila/dinanabila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
